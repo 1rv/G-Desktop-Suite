@@ -1,6 +1,6 @@
 ![splash](static/gd_electron_logo.png)
 
-**If you like what you see, consider buying me a cup of [coffee](https://www.buymeacoffee.com/alexgkim) ☕.**
+**If you like what you see, consider buying the original creator a cup of [coffee](https://www.buymeacoffee.com/alexgkim) ☕.**
 
 ![GitHub stars](https://img.shields.io/github/stars/alexkim205/G-Desktop-Suite?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/alexkim205/G-Desktop-Suite?style=social)
@@ -20,6 +20,8 @@
 Have you ever wished you had a no-frills, word-processing desktop app dedicated to just Google Drive? Annoyed at having to click the Go to My Drive button everytime you visit [https://drive.google.com](https://drive.google.com)? Want a Microsoft Word-esque experience for your Google Drive? Or simply looking to separate Google Drive from the other bajillion tabs that you opened for your research paper? Look no further!
 
 G Desktop Suite is a desktop wrapper for Google Drive built with [ElectronJS](https://github.com/electron/electron). Give it a try, and if you like what you see, share it with your friends!
+
+I am trying to make this version one with the debate template shorcuts.
 
 ![demo](static/gd_demo.gif)
 
